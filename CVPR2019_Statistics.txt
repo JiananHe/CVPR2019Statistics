@@ -1,0 +1,47 @@
+1. 分类/识别(Classification/Recognition) 
+   175 13.52%
+
+2. 检测/定位(Detection/Location) 
+   154 11.90%
+
+3. 分割(Segmentation) 
+   117 9.04%
+
+4. 跟踪(Tracking) 
+   36 2.78%
+
+5. 匹配(Registration/Stereo) 
+   41 3.17%
+
+6. 重识别(Re-Identification) 
+   24 1.85%
+
+7. 姿态估计(Pose Estimation) 
+   54 4.17%
+
+8. 图像生成(生成原本不存在的图像或图像局部)(Text-to-Image/Image Synthesis/Image Generation/Image Completion/Image Inpainting) 
+   71 5.49%
+
+9. 图像转换(基于已有图像进行变化)(Image-To-Image Translation/Style Transfer/Image Restoration/Image Rectification/Image Deblurring/Image Denosing/Super-Resolution) 
+   90 6.96%
+
+10.图像检索(Image Retrieval/Search) 
+   23 1.78%
+
+11.图像语义(Semantic Image/Visual Question Answering) 
+   85 6.57%
+
+12.三维场景相关(Point Clouds/3D Reconstruction/SLAM) 
+   107 8.27%
+
+13.Dataset/Benchmark 
+   30 2.32%
+
+14.学习策略相关（可用于改善样本空间、网络结构、训练过程、泛化能力等等的策略方法） 
+   90 6.96%
+
+15.网络结构相关（重点在于提出一种新的网络结构、或优化网络连接方法的论文，同时也应归类于该网络应用领域的topic） 
+   140 10.82%
+
+16.其他 
+   189 14.61%
